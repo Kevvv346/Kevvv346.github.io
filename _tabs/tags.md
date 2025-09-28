@@ -1,13 +1,6 @@
 ---
-layout: page
-title: "Tags"
-permalink: /tags/
+layout: tags
+title: Tags
+icon: fas fa-tags
+order: 2
 ---
-
-<h2>All Tags</h2>
-
-<ul>
-  {% for tag in site.tags %}
-    <li>{{ tag[0] }} ({{ tag[1].size }})</li>
-  {% endfor %}
-</ul>
