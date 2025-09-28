@@ -1,5 +1,6 @@
 ---
-layout: categories
-icon: fas fa-stream
-order: 1
+layout: post
+title: "Exploring Netflix Data"
+date: 2025-09-28
+categories: [data, analysis]
 ---
