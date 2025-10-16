@@ -1,0 +1,80 @@
+---
+layout: post
+title: "Power BI Project: Hotel Business Analysis"
+categories: [Data Analysis, Power BI]
+tags: [Power BI, Data Visualization, Business Analytics, Dashboard]
+description: A Power BI project focused on analyzing hotel business performance through interactive dashboards and data insights.
+---
+
+## 🏨 Project Overview
+
+This project focuses on analyzing a hotel's **business performance** using Power BI to uncover insights that support data-driven decisions.  
+The main goal was to visualize trends in **customer bookings, revenue, and occupancy rates** over time.
+
+---
+
+## 🎯 Objectives
+
+- Understand hotel booking trends and customer behavior.  
+- Identify revenue patterns across months and room types.  
+- Create an interactive Power BI dashboard for real-time business insights.  
+- Present KPIs to management using clear visual storytelling.
+
+---
+
+## 🧹 Data Preparation
+
+The raw dataset contained multiple CSV files covering:
+- Bookings (check-in/check-out details)
+- Customer demographics
+- Room pricing and occupancy
+
+### Key Steps:
+1. Imported and transformed data using **Power Query**.  
+2. Cleaned missing values and standardized date/time formats.  
+3. Created calculated columns for **total revenue** and **average stay duration**.
+
+---
+
+## 📊 Dashboard Highlights
+
+The final dashboard includes:
+- **KPI Cards:** Total Revenue, Occupancy Rate, and Average Stay Duration  
+- **Trend Charts:** Monthly revenue growth and customer booking frequency  
+- **Slicers:** Filter by room type, booking source, and customer country  
+- **Pie & Bar Charts:** Revenue breakdown by room category  
+
+---
+
+## 🧠 Insights Discovered
+
+- Weekends consistently showed a **20% increase** in bookings.  
+- Premium rooms contributed **over 45% of total revenue** despite fewer bookings.  
+- Seasonal peaks were observed in **December and August**, aligning with holiday trends.
+
+---
+
+## 🛠 Tools & Techniques
+
+- **Power BI Desktop** – Data cleaning, modeling, and visualization  
+- **DAX Formulas** – Created measures for dynamic KPIs  
+- **Power Query** – Data transformation and loading  
+- **Excel** – Initial data exploration  
+
+---
+
+## 📁 Results
+
+The final dashboard enabled management to:
+- Track revenue performance by category and time period.  
+- Identify high-value customers and booking patterns.  
+- Make data-backed decisions for **marketing and pricing strategies**.
+
+---
+
+## 🚀 Next Steps
+
+Future improvements include:
+- Integrating real-time booking data using an **API or SQL connection**.  
+- Automating weekly report generation.  
+- Expanding visualizations with **forecasting models** for dema
