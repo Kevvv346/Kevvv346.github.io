@@ -4,6 +4,7 @@ title: "Power BI Project: Hotel Business Analysis"
 categories: [Data Analysis, Power BI]
 tags: [Power BI, Data Visualization, Business Analytics, Dashboard]
 description: A Power BI project focused on analyzing hotel business performance through interactive dashboards and data insights.
+
 ---
 
 ## 🏨 Project Overview
@@ -11,7 +12,6 @@ description: A Power BI project focused on analyzing hotel business performance 
 This project focuses on analyzing a hotel's **business performance** using Power BI to uncover insights that support data-driven decisions.  
 The main goal was to visualize trends in **customer bookings, revenue, and occupancy rates** over time.
 
----
 
 ## 🎯 Objectives
 
