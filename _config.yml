@@ -14,28 +14,29 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Kevin Kioko # the main title
 
 tagline: Data-driven. Story-powered. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Whether you’re a data enthusiast or just curious about how numbers turn into strategy, this walkthrough shows how a **Data Analyst** transforms raw data into actionable insight.
+  Whether you’re a data enthusiast or just curious about how numbers turn into strategy, 
+  this walkthrough shows how a **Data Analyst** transforms raw data into actionable insight.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: kevvv346 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: sarcasticnoble # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Kevin Kioko
+  email: kmulundi83@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
