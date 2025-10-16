@@ -57,6 +57,6 @@ To grow into a **Data Engineer / Data Scientist** role—building scalable, AI-d
 
 ## 📫 Contact
 
-- **Email:** yourname@email.com  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** kmulundi83@gmail.com  
+- **GitHub:** [github.com/yourusername](https://github.com/Kevvv346)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/kevin-kioko-87387b217)
