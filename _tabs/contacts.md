@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contacts"
-icon: fas fa-stream
+icon: fas fa-user
 order: 6
 ---
 
