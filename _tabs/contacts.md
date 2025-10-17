@@ -1,9 +1,7 @@
-
 ---
-layout: page
-title: "Contact Information"
-icon: fas fa-user
-order: 7
+layout: categories
+icon: fas fa-stream
+order: 1
 ---
 
 ## 📬 Get in Touch
