@@ -2,8 +2,8 @@
 ---
 layout: page
 title: "Contact Information"
-icon: fas fa-envelope
-order: 5
+icon: fas fa-user
+order: 7
 ---
 
 ## 📬 Get in Touch
