@@ -1,7 +1,7 @@
 ---
-layout: categories
+layout: contacts
 icon: fas fa-stream
-order: 1
+order: 5
 ---
 
 ## 📬 Get in Touch
