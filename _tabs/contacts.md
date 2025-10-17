@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: Contact
+title: "Contact Information"
 icon: fas fa-envelope
 order: 5
 ---
