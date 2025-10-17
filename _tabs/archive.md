@@ -1,6 +1,5 @@
-
 ---
-layout: home
-title: "Archive"
-permalink: /archive/
+layout: archive
+icon: fas fa-stream
+order: 4
 ---
