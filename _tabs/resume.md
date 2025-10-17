@@ -35,7 +35,7 @@ Analyzed **Air Quality Index (AQI)** data across U.S. regions using Python.
 - Created visualizations and summarized findings in a professional report.  
 
 ### 🏨 Hotel Business Analysis — Power BI Project
-Created a Power BI dashboard to visualize **customer trends, bookings, and revenue**.  
+Created a **Power BI** dashboard to visualize **customer trends, bookings, and revenue**.  
 - Transformed raw Excel and CSV data using Power Query.  
 - Built KPI cards and interactive visuals for business insights.  
 
